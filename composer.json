@@ -1,0 +1,21 @@
+{
+    "name": "nango/swoft-elaticsearch",
+    "description": "用于swoft的elasticsearch搜索引擎包",
+    "type": "library",
+    "version": "0.3",
+    "require": {
+        "elasticsearch/elasticsearch": "^7.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SwoftElaticsearch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wyn",
+            "email": "553212320@qq.com"
+        }
+    ]
+}
