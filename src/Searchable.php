@@ -1,7 +1,7 @@
 <?php declare(strict_types=1);
 
 
-namespace SwoftElaticsearch;
+namespace SwoftElasticsearch;
 
 
 use Elasticsearch\ClientBuilder;

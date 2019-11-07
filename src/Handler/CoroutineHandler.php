@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 
-namespace SwoftElaticsearch\Handler;
+namespace SwoftElasticsearch\Handler;
 
 use GuzzleHttp\Ring\Core;
 use GuzzleHttp\Ring\Exception\RingException;

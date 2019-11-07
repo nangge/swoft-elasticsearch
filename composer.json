@@ -1,5 +1,5 @@
 {
-    "name": "nango/swoft-elaticsearch",
+    "name": "nango/swoft-elasticsearch",
     "description": "用于swoft的elasticsearch搜索引擎包",
     "type": "library",
     "version": "0.3",

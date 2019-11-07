@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace SwoftElaticsearch\Command;
+namespace SwoftElasticsearch\Command;
 
 use Swoft\Console\Annotation\Mapping\Command;
 use Swoft\Console\Annotation\Mapping\CommandArgument;

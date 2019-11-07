@@ -1,7 +1,7 @@
 <?php declare(strict_types=1);
 
 
-namespace SwoftElaticsearch\Listener;
+namespace SwoftElasticsearch\Listener;
 
 use App\Model\Entity\User;
 use Swoft\Db\DbEvent;
